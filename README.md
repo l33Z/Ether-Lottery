@@ -5,7 +5,7 @@ The MagnumZ web app lets you buy the MagunZ token (like Doge Coin Token) using t
 
 ## 🚀 Live Demo
 
-- Click Here : [@Ether Lottery](https://magnumz.netlify.app/)
+- Click Here : [@Ether Lottery](https://ether-lottery.netlify.app/)
 
 ## 👀 Overview
 
